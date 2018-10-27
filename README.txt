@@ -2,7 +2,7 @@
 
 NAME: HaYoung Kyung
 EMAIL: hkyung@hsph.harvard.edu
-GITHUB REPOSITORY URL: 
+GITHUB REPOSITORY URL: https://github.com/hayoungkyung/BST273-Final-Project
 I emailed Eric about the issue I’m having with creating a private repository on Github. In order to make my Github account into a student developer account, I had to send in documents to verify my student status. This apparently takes up to 5 days for approval. I have set my repository to public for now, and will set it to private as soon as possible.
 
 2.	Summarize your experience working on the final project. For example, you might approximate how many hours you spent on it and how those hours were distributed. If you found some aspects considerably harder than others, list those here. If there are known problems with your final project script, list those here.
