@@ -6,6 +6,10 @@ matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import string
 
+"""
+Eric: No description?
+"""
+
 description=""
 
 parser = argparse.ArgumentParser( description=description )
@@ -25,6 +29,12 @@ parser.add_argument(
 	required=True,
         help="1-based index of the column for y values",
 )
+
+
+"""
+Eric: None is a safer default
+"""
+
 parser.add_argument(
         "--strat",
         type=int,
